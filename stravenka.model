@@ -1,0 +1,4 @@
+model Stravenka {
+  id: int
+  value: int
+}
