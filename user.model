@@ -1,0 +1,10 @@
+model User {
+  id: int
+  firstName: string
+  lastName: string
+  role: string
+  age: int
+  phone: string
+  address: string
+  zip: string
+}
